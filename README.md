@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,7 @@
             margin: 0;
             padding: 0;
             background: white url('image.png') no-repeat center center fixed;
-            background-size: cover;
+            background-size: contain;
         }
         header {
             background: cyan;
@@ -44,11 +43,6 @@
             position: fixed;
             width: 100%;
             bottom: 0;
-        }
-        .footer-logo {
-            max-width: 100px;
-            display: block;
-            margin: 0 auto 10px;
         }
     </style>
 </head>
@@ -98,7 +92,6 @@
         </section>
     </div>
     <footer>
-        <img src="logo.png" alt="Company Logo" class="footer-logo">
         <p>&copy; 2025 Construction Company. All rights reserved.</p>
     </footer>
 </body>
