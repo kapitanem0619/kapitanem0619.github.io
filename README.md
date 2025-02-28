@@ -101,7 +101,6 @@
         </section>
     </div>
     <footer>
-        <img src="C:\Users\em estudillo\Pictures\Screenshots\logo.jpeg.png" alt="Mazequare Construction logo" class="footer-logo">
         <p>&copy; 2025 Mazequare Construction Corporation. All rights reserved.</p>
     </footer>
 </body>
