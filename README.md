@@ -1,18 +1,17 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAZEQUARE CONSTRUCTION CORPORATION</title>
+    <title>Construction Company</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: white;
         }
         header {
-            background: #00FFFF;
+            background: cyan;
             color: white;
             padding: 20px;
             text-align: center;
@@ -36,7 +35,7 @@
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
         footer {
-            background: #333;
+            background: cyan;
             color: white;
             text-align: center;
             padding: 10px;
@@ -52,39 +51,51 @@
         <p>Building Your Future with Quality and Integrity</p>
     </header>
     <nav>
-        <a href="#about">About Us</a>
+        <a href="#ongoing">On-going Projects</a>
+        <a href="#completed">Completed Projects</a>
+        <a href="#upcoming">Upcoming Projects</a>
         <a href="#services">Services</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
+        <a href="#contacts">Contact</a>
+        <a href="#orgchart">Org Chart</a>
     </nav>
     <div class="container">
-        <section id="about">
-            <h2>About Us</h2>
-            <p>We are a newly established construction company committed to excellence in building and infrastructure development.</p>
+        <section id="ongoing">
+            <h2>On-going Projects</h2>
+            <p>Details about the ongoing projects.</p>
+        </section>
+        <section id="completed">
+            <h2>Completed Projects</h2>
+            <p>Details about completed projects.</p>
+        </section>
+        <section id="upcoming">
+            <h2>Upcoming Projects</h2>
+            <p>Details about upcoming projects.</p>
         </section>
         <section id="services">
-            <h2>Our Services</h2>
+            <h2>Services Offered</h2>
             <ul>
-                <li>DESIGN , BUILD & CONSULTATION</li>
-                <li>Construction Management</li>
-                <li>Water Treatment Plant</li>
-                <li>Septage & Sewage Treatment Plant</li>
-                <li>Deep Well Drilling & Rehabilitation</li>
-                <li>Telecommunication Services</li>
+                <li>DESIGN, BUILD & CONSULTATION</li>
+                <li>CONSTRUCTION MANAGEMENT</li>
+                <li>WATER TREATMENT PLANT</li>
+                <li>SEPTAGE & SEWAGE TREATMENT PLANT</li>
+                <li>WATER & SEWR LINE SYSTEM</li>
+                <li>DEEPWELL DRILLING & REHABILITATION</li>
+                <li>SOLAR PANEL INSTALLATION</li>
+                <li>TELECOMMUNICATION SERVICES</li>
             </ul>
         </section>
-        <section id="projects">
-            <h2>Our Projects</h2>
-            <p>Stay tuned for our latest projects coming soon!</p>
-        </section>
-        <section id="contact">
+        <section id="contacts">
             <h2>Contact Us</h2>
-            <p>Email: contact@mazequareconstruction@gmail.com</p>
-            <p>Phone: 046 884 2801</p>
+            <p>Email: contact@MAZEQUARECONSTRUCTION@gmail.com</p>
+            <p>Phone: 046 8842 801</p>
+        </section>
+        <section id="orgchart">
+            <h2>Organizational Chart</h2>
+            <p>Details about company structure.</p>
         </section>
     </div>
     <footer>
-        <p>&copy; 2025 Mazequare Construction Corporation. All rights reserved.</p>
+        <p>&copy; 2025 Construction Company. All rights reserved.</p>
     </footer>
 </body>
 </html>
