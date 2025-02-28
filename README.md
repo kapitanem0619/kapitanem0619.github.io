@@ -103,8 +103,8 @@
         </section>
     </div>
     <footer>
-        <img src="C:\Users\em estudillo\Pictures\Screenshots\Screenshot 2025-02-28 191240.png" alt="Company Logo" class="footer-logo">
-        <p>&copy; 2025 Construction Company. All rights reserved.</p>
+        <img src="C:\Users\em estudillo\Pictures\Screenshots\logo.jpeg.png" alt="Mazequare Construction logo" class="footer-logo">
+        <p>&copy; 2025 Mazequare Construction Corporation. All rights reserved.</p>
     </footer>
 </body>
 </html>
