@@ -12,7 +12,7 @@
             background-color: #f4f4f4;
         }
         header {
-            background: #333;
+            background: #00FFFF;
             color: white;
             padding: 20px;
             text-align: center;
@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Construction Company</h1>
+        <h1>Welcome to MAZEQUARE Construction Corporation</h1>
         <p>Building Your Future with Quality and Integrity</p>
     </header>
     <nav>
@@ -65,10 +65,12 @@
         <section id="services">
             <h2>Our Services</h2>
             <ul>
-                <li>Residential & Commercial Construction</li>
-                <li>Infrastructure & Land Development</li>
-                <li>Renovations & Remodeling</li>
-                <li>Project Management & Consulting</li>
+                <li>DESIGN , BUILD & CONSULTATION</li>
+                <li>Construction Management</li>
+                <li>Water Treatment Plant</li>
+                <li>Septage & Sewage Treatment Plant</li>
+                <li>Deep Well Drilling & Rehabilitation</li>
+                <li>Telecommunication Services</li>
             </ul>
         </section>
         <section id="projects">
