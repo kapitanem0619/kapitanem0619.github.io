@@ -1,3 +1,5 @@
+title: MAZEQUARE CONSTRUCTION homepage
+description: Bookmark this to keep an eye on my project updates!
 ![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)
 <html lang="en">
 <head>
