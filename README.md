@@ -86,7 +86,7 @@
         </section>
         <section id="contacts">
             <h2>Contact Us</h2>
-            <p>Email: contact@MAZEQUARECONSTRUCTION@gmail.com</p>
+            <p>Email: contact@ MAZEQUARECONSTRUCTION@gmail.com</p>
             <p>Phone: 046 8842 801</p>
         </section>
         <section id="orgchart">
