@@ -78,7 +78,7 @@
                 <li>CONSTRUCTION MANAGEMENT</li>
                 <li>WATER TREATMENT PLANT</li>
                 <li>SEPTAGE & SEWAGE TREATMENT PLANT</li>
-                <li>WATER & SEWR LINE SYSTEM</li>
+                <li>WATER & SEWER LINE SYSTEM</li>
                 <li>DEEPWELL DRILLING & REHABILITATION</li>
                 <li>SOLAR PANEL INSTALLATION</li>
                 <li>TELECOMMUNICATION SERVICES</li>
