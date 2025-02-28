@@ -1,5 +1,6 @@
 ![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -37,13 +38,18 @@
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
         footer {
-            background: cyan;
+            background: black;
             color: white;
             text-align: center;
             padding: 10px;
             position: fixed;
             width: 100%;
             bottom: 0;
+        }
+        .footer-logo {
+            display: block;
+            margin: 0 auto 10px;
+            width: 100px;
         }
     </style>
 </head>
@@ -97,6 +103,7 @@
         </section>
     </div>
     <footer>
+        <img src="C:\Users\em estudillo\Pictures\Screenshots\Screenshot 2025-02-28 191240.png" alt="Company Logo" class="footer-logo">
         <p>&copy; 2025 Construction Company. All rights reserved.</p>
     </footer>
 </body>
