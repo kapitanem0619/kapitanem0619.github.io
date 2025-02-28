@@ -1,6 +1,4 @@
 ![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
