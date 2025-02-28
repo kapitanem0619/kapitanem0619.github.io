@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +9,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: white;
+            background: white url('image.png') no-repeat center center fixed;
+            background-size: cover;
         }
         header {
             background: cyan;
@@ -30,12 +32,12 @@
         .container {
             width: 80%;
             margin: 20px auto;
-            background: white;
+            background: rgba(255, 255, 255, 0.9);
             padding: 20px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
         footer {
-            background: cyan;
+            background: black;
             color: white;
             text-align: center;
             padding: 10px;
@@ -43,11 +45,16 @@
             width: 100%;
             bottom: 0;
         }
+        .footer-logo {
+            max-width: 100px;
+            display: block;
+            margin: 0 auto 10px;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to MAZEQUARE Construction Corporation</h1>
+        <h1>Welcome to Our Construction Company</h1>
         <p>Building Your Future with Quality and Integrity</p>
     </header>
     <nav>
@@ -74,20 +81,16 @@
         <section id="services">
             <h2>Services Offered</h2>
             <ul>
-                <li>DESIGN, BUILD & CONSULTATION</li>
-                <li>CONSTRUCTION MANAGEMENT</li>
-                <li>WATER TREATMENT PLANT</li>
-                <li>SEPTAGE & SEWAGE TREATMENT PLANT</li>
-                <li>WATER & SEWER LINE SYSTEM</li>
-                <li>DEEPWELL DRILLING & REHABILITATION</li>
-                <li>SOLAR PANEL INSTALLATION</li>
-                <li>TELECOMMUNICATION SERVICES</li>
+                <li>Residential & Commercial Construction</li>
+                <li>Infrastructure & Land Development</li>
+                <li>Renovations & Remodeling</li>
+                <li>Project Management & Consulting</li>
             </ul>
         </section>
         <section id="contacts">
             <h2>Contact Us</h2>
-            <p>Email: contact@ MAZEQUARECONSTRUCTION@gmail.com</p>
-            <p>Phone: 046 8842 801</p>
+            <p>Email: contact@constructioncompany.com</p>
+            <p>Phone: +123 456 7890</p>
         </section>
         <section id="orgchart">
             <h2>Organizational Chart</h2>
@@ -95,6 +98,7 @@
         </section>
     </div>
     <footer>
+        <img src="logo.png" alt="Company Logo" class="footer-logo">
         <p>&copy; 2025 Construction Company. All rights reserved.</p>
     </footer>
 </body>
