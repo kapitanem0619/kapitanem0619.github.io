@@ -1,4 +1,6 @@
-![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)
+![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)![StandingOvationGIF](https://github.com/user-attachments/assets/948174a1-d3c9-4504-94b5-dd1fb33dd7ab)![logo jpeg](https://github.com/user-attachments/assets/211a49d7-5723-49dc-8570-bec3d78b5871)
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
