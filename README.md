@@ -59,7 +59,7 @@
             <h2>Our Management Team</h2>
             <div class="team">
                 <div class="team-member">
-                    <img src="C:\Users\em estudillo\Downloads\aldwin pahimnayan.jpg" alt="Engr. Aldwin S. Pahimnayan">
+                    ![image](https://github.com/user-attachments/assets/3d3b317a-7621-4f10-8dc5-d7f8ac0fbecd)
                     <p><strong>Engr. Aldwin S. Pahimnayan</strong></p>
                     <p>Chairman, CEO & President</p>
                 </div>
