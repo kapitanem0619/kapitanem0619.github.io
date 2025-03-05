@@ -69,7 +69,7 @@
                     <p>VP Operations - CSA</p>
                 </div>
                 <div class="team-member">
-                    <img src="C:\Users\em estudillo\Downloads\mark_marquez.jpg" alt="Engr. Mark Aries J. Marquez">
+                    😁
                     <p><strong>Engr. Mark Aries J. Marquez</strong></p>
                     <p>VP Operations - ICT</p>
                 </div>
