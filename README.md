@@ -64,22 +64,22 @@
                     <p>Chairman, CEO & President</p>
                 </div>
                 <div class="team-member">
-                    <img src="C:\Users\em estudillo\Downloads\jazent anthony ramos.jpg" alt="Engr. Jazent Anthony M. Ramos">
+                    ![image](https://github.com/user-attachments/assets/f9bf152d-b95f-4e6f-a9eb-e9fdef032125)
                     <p><strong>Engr. Jazent Anthony M. Ramos</strong></p>
                     <p>VP Operations - CSA</p>
                 </div>
                 <div class="team-member">
-                    😁
+                    ![image](https://github.com/user-attachments/assets/2a55454e-0362-47ee-bc93-32b0c9c25d3e)
                     <p><strong>Engr. Mark Aries J. Marquez</strong></p>
                     <p>VP Operations - ICT</p>
                 </div>
                 <div class="team-member">
-                    <img src="C:\Users\em estudillo\Downloads\elmer mark estudillo.jpg" alt="Engr. Elmer Mark A. Estudillo">
+                    ![image](https://github.com/user-attachments/assets/755fd204-609b-4950-b0e4-cb45959586c3)
                     <p><strong>Engr. Elmer Mark A. Estudillo</strong></p>
                     <p>Chief Finance Officer</p>
                 </div>
                 <div class="team-member">
-                    <img src="C:\Users\em estudillo\Downloads\edgar cunanan.jpg" alt="Engr. Edgar B. Cunanan">
+                    ![image](https://github.com/user-attachments/assets/da980554-6bf9-4343-9344-055789e65236)
                     <p><strong>Engr. Edgar B. Cunanan</strong></p>
                     <p>Corporate Secretary</p>
                 </div>
