@@ -9,17 +9,26 @@
             margin: 0;
             padding: 0;
             background-color: white;
+            background-image: url('mcclogo_background.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            opacity: 0.2;
         }
         header, footer {
             background-color: cyan;
             color: white;
             text-align: center;
             padding: 15px;
+            position: relative;
         }
         .container {
             width: 80%;
             margin: auto;
             padding: 20px;
+            position: relative;
+            z-index: 2;
         }
         .section {
             margin-bottom: 30px;
