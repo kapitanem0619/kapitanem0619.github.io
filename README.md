@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -59,27 +58,27 @@
             <h2>Our Management Team</h2>
             <div class="team">
                 <div class="team-member">
-                    ![image](https://github.com/user-attachments/assets/3d3b317a-7621-4f10-8dc5-d7f8ac0fbecd)
+                    <img src="images/aldwin_pahimnayan.jpg" alt="Engr. Aldwin S. Pahimnayan">
                     <p><strong>Engr. Aldwin S. Pahimnayan</strong></p>
                     <p>Chairman, CEO & President</p>
                 </div>
                 <div class="team-member">
-                    ![image](https://github.com/user-attachments/assets/f9bf152d-b95f-4e6f-a9eb-e9fdef032125)
+                    <img src="images/jazent_ramos.jpg" alt="Engr. Jazent Anthony M. Ramos">
                     <p><strong>Engr. Jazent Anthony M. Ramos</strong></p>
                     <p>VP Operations - CSA</p>
                 </div>
                 <div class="team-member">
-                    ![image](https://github.com/user-attachments/assets/2a55454e-0362-47ee-bc93-32b0c9c25d3e)
+                    <img src="images/mark_marquez.jpg" alt="Engr. Mark Aries J. Marquez">
                     <p><strong>Engr. Mark Aries J. Marquez</strong></p>
                     <p>VP Operations - ICT</p>
                 </div>
                 <div class="team-member">
-                    ![image](https://github.com/user-attachments/assets/755fd204-609b-4950-b0e4-cb45959586c3)
+                    <img src="images/elmer_estudillo.jpg" alt="Engr. Elmer Mark A. Estudillo">
                     <p><strong>Engr. Elmer Mark A. Estudillo</strong></p>
                     <p>Chief Finance Officer</p>
                 </div>
                 <div class="team-member">
-                    ![image](https://github.com/user-attachments/assets/da980554-6bf9-4343-9344-055789e65236)
+                    <img src="images/edgar_cunanan.jpg" alt="Engr. Edgar B. Cunanan">
                     <p><strong>Engr. Edgar B. Cunanan</strong></p>
                     <p>Corporate Secretary</p>
                 </div>
