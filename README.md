@@ -82,6 +82,26 @@
                     <p><strong>Engr. Edgar B. Cunanan</strong></p>
                     <p>Corporate Secretary</p>
                 </div>
+                <div class="team-member">
+                    <img src="https://kapitanem0619.github.io/jayson_pahimnayan.png" alt="Engr. Jayson S. Pahimnayan">
+                    <p><strong>Engr. Jayson S. Pahimnayan</strong></p>
+                    <p>Operation Officer, Water, Wastewater &Environmental Specialist</p>
+                </div>
+                <div class="team-member">
+                    <img src="https://kapitanem0619.github.io/mark_tuazon.png" alt="Engr. Mark Anthony Tuazon">
+                    <p><strong>Engr. Mark Anthony Tuazon</strong></p>
+                    <p>Operation Officer, Housing and Fit-Out</p>
+                </div>
+                <div class="team-member">
+                    <img src="https://kapitanem0619.github.io/jaylord_marasigan.png" alt="Jaylord Marasigan">
+                    <p><strong>Jaylord Marasigan</strong></p>
+                    <p>Marketing Officer</p>
+                </div>
+                <div class="team-member">
+                    <img src="https://kapitanem0619.github.io/ralph_miciano.png" alt="Engr. Ralph Christian Miciano">
+                    <p><strong>Engr. Ralph Christian Miciano</strong></p>
+                    <p>Marketing Officer</p>
+                </div>
             </div>
         </section>
         <section class="section" id="services">
