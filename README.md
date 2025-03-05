@@ -1,11 +1,9 @@
-![SoExcited~GIF](https://github.com/user-attachments/assets/6d7fb36e-b606-4c2e-a3bc-5fc188e1ddee)![StandingOvationGIF](https://github.com/user-attachments/assets/948174a1-d3c9-4504-94b5-dd1fb33dd7ab)![logo jpeg](https://github.com/user-attachments/assets/211a49d7-5723-49dc-8570-bec3d78b5871)
-
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Construction Company</title>
+    <title>MAZEQUARE Construction Corp.</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -13,97 +11,58 @@
             padding: 0;
             background-color: white;
         }
-        header {
-            background: cyan;
+        header, footer {
+            background-color: cyan;
             color: white;
-            padding: 20px;
             text-align: center;
-        }
-        nav {
-            text-align: center;
-            padding: 10px;
-            background: #444;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            padding: 10px 20px;
-            display: inline-block;
+            padding: 15px;
         }
         .container {
             width: 80%;
-            margin: 20px auto;
-            background: white;
+            margin: auto;
             padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
-        footer {
-            background: black;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-        .footer-logo {
-            display: block;
-            margin: 0 auto 10px;
-            width: 100px;
+        .section {
+            margin-bottom: 30px;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to MAZEQUARE Construction Corporation</h1>
-        <p>Building Your Future with Quality and Integrity</p>
+        <h1>MAZEQUARE Construction Corporation</h1>
     </header>
-    <nav>
-        <a href="#ongoing">On-going Projects</a>
-        <a href="#completed">Completed Projects</a>
-        <a href="#upcoming">Upcoming Projects</a>
-        <a href="#services">Services</a>
-        <a href="#contacts">Contact</a>
-        <a href="#orgchart">Org Chart</a>
-    </nav>
     <div class="container">
-        <section id="ongoing">
-            <h2>On-going Projects</h2>
-            <p>Details about the ongoing projects.</p>
+        <section class="section" id="about">
+            <h2>About Our Company</h2>
+            <p>MAZEQUARE Construction Corporation is a dynamic start-up in the construction industry, founded in 2024 by a team of seasoned experts.</p>
         </section>
-        <section id="completed">
-            <h2>Completed Projects</h2>
-            <p>Details about completed projects.</p>
+        <section class="section" id="vision-mission">
+            <h2>Our Vision & Mission</h2>
+            <p>Our vision is to become a leading construction company recognized for excellence in land development and infrastructure solutions.</p>
+            <p>Our mission is to provide high-quality construction services with a commitment to sustainability, safety, and innovation.</p>
         </section>
-        <section id="upcoming">
-            <h2>Upcoming Projects</h2>
-            <p>Details about upcoming projects.</p>
-        </section>
-        <section id="services">
-            <h2>Services Offered</h2>
+        <section class="section" id="services">
+            <h2>Our Services</h2>
             <ul>
-                <li>DESIGN, BUILD & CONSULTATION</li>
-                <li>CONSTRUCTION MANAGEMENT</li>
-                <li>WATER TREATMENT PLANT</li>
-                <li>SEPTAGE & SEWAGE TREATMENT PLANT</li>
-                <li>WATER & SEWER LINE SYSTEM</li>
-                <li>DEEPWELL DRILLING & REHABILITATION</li>
-                <li>SOLAR PANEL INSTALLATION</li>
-                <li>TELECOMMUNICATION SERVICES</li>
+                <li>Water Treatment Plant</li>
+                <li>Septic & Sewage Treatment</li>
+                <li>Deep Well Drilling & Rehabilitation</li>
+                <li>Residential & Commercial Construction</li>
+                <li>Land Development</li>
+                <li>Bridge & Slope Protection</li>
+                <li>Solar Installation</li>
+                <li>Telecommunication Services</li>
             </ul>
         </section>
-        <section id="contacts">
+        <section class="section" id="contact">
             <h2>Contact Us</h2>
-            <p>Email: contact@ MAZEQUARECONSTRUCTION@gmail.com</p>
-            <p>Phone: 046 8842 801</p>
-        </section>
-        <section id="orgchart">
-            <h2>Organizational Chart</h2>
-            <p>Details about company structure.</p>
+            <p>Phone: 0998 889 4612 | 0943 051 8051</p>
+            <p>Email: mazequareconstruction@gmail.com</p>
+            <p>Address: Unit 9B Paseo de Bacoor Bldg., Bacoor Blvd., Molino 3, Bacoor City, Cavite 4102</p>
         </section>
     </div>
     <footer>
-        <p>&copy; 2025 Mazequare Construction Corporation. All rights reserved.</p>
+        <p>&copy; 2025 MAZEQUARE Construction Corporation. All rights reserved.</p>
     </footer>
 </body>
 </html>
