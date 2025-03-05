@@ -94,7 +94,8 @@
                 <div class="team-member">
                     <img src="https://kapitanem0619.github.io/jayson_pahimnayan.png" alt="Engr. Jayson S. Pahimnayan">
                     <p><strong>Engr. Jayson S. Pahimnayan</strong></p>
-                    <p>Operation Officer, Water, Wastewater &Environmental Specialist</p>
+                    <p>Operation Officer</p>
+                    <p>Water, Wastewater & Environmental Specialist</p>
                 </div>
                 <div class="team-member">
                     <img src="https://kapitanem0619.github.io/mark_tuazon.png" alt="Engr. Mark Anthony Tuazon">
