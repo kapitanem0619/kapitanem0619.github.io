@@ -100,7 +100,8 @@
                 <div class="team-member">
                     <img src="https://kapitanem0619.github.io/mark_tuazon.png" alt="Engr. Mark Anthony Tuazon">
                     <p><strong>Engr. Mark Anthony Tuazon</strong></p>
-                    <p>Operation Officer, Housing and Fit-Out</p>
+                    <p>Operation Officer</p>
+                     <p>Housing and Fit-Out</p>
                 </div>
                 <div class="team-member">
                     <img src="https://kapitanem0619.github.io/jaylord_marasigan.png" alt="Jaylord Marasigan">
