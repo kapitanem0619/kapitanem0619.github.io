@@ -58,27 +58,27 @@
             <h2>Our Management Team</h2>
             <div class="team">
                 <div class="team-member">
-                    <img src="https://kapitanem0619.github.io/images/aldwin_pahimnayan.jpg" alt="Engr. Aldwin S. Pahimnayan">
+                    <img src="https://kapitanem0619.github.io/aldwin_pahimnayan.jpg" alt="Engr. Aldwin S. Pahimnayan">
                     <p><strong>Engr. Aldwin S. Pahimnayan</strong></p>
                     <p>Chairman, CEO & President</p>
                 </div>
                 <div class="team-member">
-                    <img src="https://kapitanem0619.github.io/images/jazent_ramos.jpg" alt="Engr. Jazent Anthony M. Ramos">
+                    <img src="https://kapitanem0619.github.io/jazent_ramos.jpg" alt="Engr. Jazent Anthony M. Ramos">
                     <p><strong>Engr. Jazent Anthony M. Ramos</strong></p>
                     <p>VP Operations - CSA</p>
                 </div>
                 <div class="team-member">
-                    <img src="https://kapitanem0619.github.io/images/mark_marquez.jpg" alt="Engr. Mark Aries J. Marquez">
+                    <img src="https://kapitanem0619.github.io/mark_marquez.jpg" alt="Engr. Mark Aries J. Marquez">
                     <p><strong>Engr. Mark Aries J. Marquez</strong></p>
                     <p>VP Operations - ICT</p>
                 </div>
                 <div class="team-member">
-                    <img src="https://kapitanem0619.github.io/images/elmer_estudillo.jpg" alt="Engr. Elmer Mark A. Estudillo">
+                    <img src="https://kapitanem0619.github.io/elmer_estudillo.jpg" alt="Engr. Elmer Mark A. Estudillo">
                     <p><strong>Engr. Elmer Mark A. Estudillo</strong></p>
                     <p>Chief Finance Officer</p>
                 </div>
                 <div class="team-member">
-                    <img src="https://kapitanem0619.github.io/images/edgar_cunanan.jpg" alt="Engr. Edgar B. Cunanan">
+                    <img src="https://kapitanem0619.github.io/edgar_cunanan.jpg" alt="Engr. Edgar B. Cunanan">
                     <p><strong>Engr. Edgar B. Cunanan</strong></p>
                     <p>Corporate Secretary</p>
                 </div>
