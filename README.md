@@ -99,7 +99,7 @@
         </section>
         <section class="section" id="contact">
             <h2>Contact Us</h2>
-            <p>Phone: 0998 889 4612 | 0943 051 8051</p>
+            <p>Phone: 0998 889 4612 | 0943 518 0551</p>
             <p>Email: mazequareconstruction@gmail.com</p>
             <p>Address: Unit 9B Paseo de Bacoor Bldg., Bacoor Blvd., Molino 3, Bacoor City, Cavite 4102</p>
         </section>
