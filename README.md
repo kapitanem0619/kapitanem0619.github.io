@@ -14,7 +14,7 @@
             background-position: center;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            opacity: 0.02;
+            opacity: 1;
         }
         header, footer {
             background-color: cyan;
