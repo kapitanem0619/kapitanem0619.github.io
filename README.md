@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,6 +25,20 @@
         .section {
             margin-bottom: 30px;
         }
+        .team {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .team-member {
+            text-align: center;
+            margin: 20px;
+        }
+        .team-member img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
     </style>
 </head>
 <body>
@@ -39,6 +54,36 @@
             <h2>Our Vision & Mission</h2>
             <p>Our vision is to become a leading construction company recognized for excellence in land development and infrastructure solutions.</p>
             <p>Our mission is to provide high-quality construction services with a commitment to sustainability, safety, and innovation.</p>
+        </section>
+        <section class="section" id="management">
+            <h2>Our Management Team</h2>
+            <div class="team">
+                <div class="team-member">
+                    <img src="images/aldwin_pahimnayan.jpg" alt="Engr. Aldwin S. Pahimnayan">
+                    <p><strong>Engr. Aldwin S. Pahimnayan</strong></p>
+                    <p>Chairman, CEO & President</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/jazent_ramos.jpg" alt="Engr. Jazent Anthony M. Ramos">
+                    <p><strong>Engr. Jazent Anthony M. Ramos</strong></p>
+                    <p>VP Operations - CSA</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/mark_marquez.jpg" alt="Engr. Mark Aries J. Marquez">
+                    <p><strong>Engr. Mark Aries J. Marquez</strong></p>
+                    <p>VP Operations - ICT</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/elmer_estudillo.jpg" alt="Engr. Elmer Mark A. Estudillo">
+                    <p><strong>Engr. Elmer Mark A. Estudillo</strong></p>
+                    <p>Chief Finance Officer</p>
+                </div>
+                <div class="team-member">
+                    <img src="images/edgar_cunanan.jpg" alt="Engr. Edgar B. Cunanan">
+                    <p><strong>Engr. Edgar B. Cunanan</strong></p>
+                    <p>Corporate Secretary</p>
+                </div>
+            </div>
         </section>
         <section class="section" id="services">
             <h2>Our Services</h2>
