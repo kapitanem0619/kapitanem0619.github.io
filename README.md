@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             background-color: white;
-            background-image: url('mcclogo_background.png');
+            background-image: url();
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
